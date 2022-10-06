@@ -1,6 +1,5 @@
 from selenium import webdriver
 import undetected_chromedriver.v2 as uc
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
